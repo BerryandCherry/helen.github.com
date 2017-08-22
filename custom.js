@@ -12,7 +12,12 @@ $(function(){
 		$('body').backstretch([
 	 		 "tm-bg-slide-1.jpg", 
 	 		 "tm-bg-slide-2.jpg",
-			 "tm-bg-slide-3.jpg"
+			 "tm-bg-slide-3.jpg",
+			 "tm-bg-slide-4.jpg",
+			 "tm-bg-slide-5.jpg",
+			 "tm-bg-slide-6.jpg",
+			 "tm-bg-slide-7.jpg",
+			 "tm-bg-slide-8.jpg"
 	 			], 	{duration: 3200, fade: 1300});
 		});
 })
